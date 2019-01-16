@@ -1,0 +1,24 @@
+{
+  "files.associations": {
+    "__config": "cpp",
+    "__nullptr": "cpp",
+    "cstddef": "cpp",
+    "exception": "cpp",
+    "initializer_list": "cpp",
+    "new": "cpp",
+    "stdexcept": "cpp",
+    "type_traits": "cpp",
+    "typeinfo": "cpp",
+    "algorithm": "cpp",
+    "ostream": "cpp",
+    "iostream": "cpp",
+    "hash_map": "cpp",
+    "hash_set": "cpp",
+    "cstdint": "cpp",
+    "tuple": "cpp",
+    "string": "cpp",
+    "iosfwd": "cpp"
+  },
+  "C_Cpp.intelliSenseEngineFallback": "Enabled",
+  "C_Cpp.errorSquiggles": "Disabled"
+}
